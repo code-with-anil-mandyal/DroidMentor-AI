@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DroidMentor AI</string>
+    <string name="droidmentor_ai">DroidMentor AI</string>
+    <string name="chat_history">Chat History</string>
+    <string name="chat">Chat</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="ai_message">AI Message</string>
+    <string name="see_all">See all</string>
+</resources>
