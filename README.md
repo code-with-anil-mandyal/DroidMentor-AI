@@ -107,16 +107,6 @@ It serves as a reference project for developers interested in building AI-powere
 
 This project is open-source and available under the MIT License.
 
----
-
-If you want, I can also give you **a much stronger GitHub version** that includes:
-
-- **Tech badges (Kotlin, Compose, Android, License)**  
-- **Architecture diagram image**  
-- **GIF preview of your app working**  
-- **Professional repo structure**
-
-Those things make a repo look **senior-level instead of a normal demo project**.
 
 
 
